@@ -1,5 +1,7 @@
 # apache
 
+[![IDX](https://cdn.idx.dev/btn/open_dark_32@2x.png)](https://idx.google.com/import?url=https://github.com/davidsandilands/puppetlabs-apache)
+
 [Module description]: #module-description
 
 [Setup]: #setup
